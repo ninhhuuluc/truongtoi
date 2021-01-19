@@ -1,0 +1,51 @@
+*{margin: 0px; padding: 0px; box-sizing: border-box;}
+
+#phan-dau{
+    background-color:#eeeeee;
+    height: 290px;
+}
+
+#phan-than{
+    zbackground-color: aqua;
+    display: flex;
+}
+
+#phan-noi-dung{
+    zbackground-color: chartreuse;
+}
+
+#phan-phai{
+    zbackground-color: cornflowerblue;
+}
+
+#phan-chan{
+    background-color: blueviolet;
+}
+
+.menu{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    align-items: center;
+    color: #eeeeee;    
+}
+
+#mau-nen-menu{
+    background-color: #0998d4;
+}
+
+#phan-dau-2{
+    display: flex;
+    justify-content:;
+}
+
+.do-rong-chung{
+    width: 1170px;
+    margin: 0px auto;
+}
+
+#phan-noi-dung{
+    width: 860px;
+}
+<iframe width="800px" height= "600px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAACBPscRUQ1FBWTVIOElKODlaU1JGSk1FOEs3V1VOUi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
