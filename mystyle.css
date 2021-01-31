@@ -3,6 +3,8 @@
 #phan-dau{
     background-color:#eeeeee;
     height: 290px;
+    margin-bottom: 10px;
+
 }
 
 #phan-than{
@@ -15,6 +17,7 @@
 }
 #phan-noi-dung{
     zbackground-color: chartreuse;
+    width: 860px;
 }
 
 #phan-phai{
@@ -48,7 +51,7 @@
 
 #phan-dau-2{
     display: flex;
-    justify-content:;
+    
 }
 
 .do-rong-chung{
@@ -56,17 +59,28 @@
     margin: 0px auto;
 }
 
-#phan-noi-dung{
-    width: 860px;
-}
-
 .menu li a{
     text-decoration: none;
     display: block;
     line-height: 50px;
-    padding: 0px 20px 0px 20px;
+    border: black 1px solid;
 }
 
-.menu li a:hover{    
-    background-color: orange;
+.menu li a:hover{
+    background-color: orange;}
+
+.menu li{
+    width: 100%;
+    text-align: center;}
+
+#anh-poster{
+    width: auto;
+    height: auto;
+}
+#lk-mxh{
+    margin: 5px 0px; 5px 0px;
+}
+
+#phan-than #phan-noi-dung ul li a{
+    text-decoration: none;
 }
