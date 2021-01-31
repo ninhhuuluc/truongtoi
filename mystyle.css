@@ -2,39 +2,29 @@
 
 #phan-dau{
     background-color:#eeeeee;
-    height: 290px;
-    margin-bottom: 10px;
-
-}
+    height: 290px;}
 
 #phan-than{
     zbackground-color: aqua;
-    display: flex;
-}
+    display: flex;}
 
 #phan-than #phan-noi-dung ul li a:hover{
-    background-color: orange;
-}
+    background-color: orange;}
+
 #phan-noi-dung{
-    zbackground-color: chartreuse;
-    width: 860px;
-}
+    zbackground-color: chartreuse;}
 
 #phan-phai{
-    zbackground-color: cornflowerblue;
-}
+    zbackground-color: cornflowerblue;}
 
 #phan-phai ul li a{
-    text-decoration: none;    
-}
+    text-decoration: none;  }
 
 #phan-phai ul li a:hover{
-    background-color: orange;
-}
+    background-color: orange;}
 
 #phan-chan{
-    background-color: blueviolet;
-}
+    background-color: blueviolet;}
 
 .menu{
     list-style-type: none;
@@ -42,45 +32,33 @@
     justify-content: space-around;
     height: 50px;
     align-items: center;
-    color: #eeeeee; 
-}
+    color: #eeeeee;}
 
 #mau-nen-menu{
-    background-color: #0998d4;
-}
+    background-color: #0998d4;}
 
 #phan-dau-2{
     display: flex;
-    
-}
+    justify-content:;}
 
 .do-rong-chung{
     width: 1170px;
-    margin: 0px auto;
-}
+    margin: 0px auto;}
+
+#phan-noi-dung{
+    width: 860px;}
 
 .menu li a{
     text-decoration: none;
-    display: block;
-    line-height: 50px;
     border: black 1px solid;
-}
+    line-height: 50px;
+    display: block;}
 
 .menu li a:hover{
-    background-color: orange;}
+    background-color: orange;
+}
 
 .menu li{
     width: 100%;
-    text-align: center;}
-
-#anh-poster{
-    width: auto;
-    height: auto;
-}
-#lk-mxh{
-    margin: 5px 0px; 5px 0px;
-}
-
-#phan-than #phan-noi-dung ul li a{
-    text-decoration: none;
+    text-align: center;
 }
