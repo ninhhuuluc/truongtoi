@@ -78,9 +78,17 @@
     height: auto;
 }
 #lk-mxh{
-    margin: 5px 0px; 5px 0px;
+    margin: 5px 0px 5px 0px;
 }
 
 #phan-than #phan-noi-dung ul li a{
     text-decoration: none;
+}
+
+#phan-chan{
+    background-color: #0998d4;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
