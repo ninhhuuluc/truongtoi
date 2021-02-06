@@ -4,11 +4,10 @@
     background-color:#eeeeee;
     height: 290px;
     margin-bottom: 10px;
-
 }
 
 #phan-than{
-    zbackground-color: aqua;
+    bbackground-color: aqua;
     display: flex;
 }
 
@@ -16,8 +15,9 @@
     background-color: orange;
 }
 #phan-noi-dung{
-    zbackground-color: chartreuse;
+    bbackground-color: chartreuse;
     width: 860px;
+    border: #e3e3e3 1px solid;
 }
 
 #phan-phai{
@@ -50,8 +50,7 @@
 }
 
 #phan-dau-2{
-    display: flex;
-    
+    display: flex;    
 }
 
 .do-rong-chung{
@@ -91,4 +90,65 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+#phan-noi-dung{
+    width: 880px; hheight: 675px;
+}
+
+#phan-noi-dung h3{
+    background-color: #f5f5f5;
+}
+
+.khoi-noi-dung{
+    display: flex;
+    justify-content: space-between;
+    text-align: justify;
+}
+
+.khoi-noi-dung-1{
+    width: 575px;
+    bbackground-color: #0998d4;
+    bborder: gray 1px solid;
+}
+
+.mau-tin-chinh-trai{
+    width: 575px;
+    padding: 5px 15px 5px 5px;
+}
+
+.avata-lon{
+    width: 100%;
+}
+
+.avata-nho{
+    width: 30px; height: 30px;
+    border-radius: 30px;
+}
+
+.nhom-thanh-phan-tieu-de{
+    display: flex;
+}
+
+.tieu-de-bai-viet{
+    display: inline;
+    color: #327ab6;
+}
+
+.cach-day{
+    background-color: #327ab6;
+    color: white;
+}
+
+.tieu-de-bai-viet-va-thoi-gian{
+    margin-left: 5px;
+}
+
+.khoi-noi-dung-2{
+    bborder: gray 1px solid;
+    padding: 5px 5px 5px 15px;
+}
+
+.nhom-thanh-phan-tieu-de{
+    margin-bottom: 7px;
 }
