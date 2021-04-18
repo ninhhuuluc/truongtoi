@@ -25,7 +25,7 @@ http://webfaver.com/client-side/css/cach-css-tu-dong-resize-anh-nen-theo-the-div
 }
 
 #phan-phai{
-    background-color: cornflowerblue;
+    zbackground-color: cornflowerblue;
     border: #e3e3e3 1px solid;
     margin: 0px 0px 0px 10px;
 }
@@ -103,9 +103,7 @@ http://webfaver.com/client-side/css/cach-css-tu-dong-resize-anh-nen-theo-the-div
     width: 880px; zheight: 675px;
 }
 
-#phan-noi-dung .ten-khoi-noi-dung{
-    background-color: #f5f5f5;
-}
+
 
 .khoi-noi-dung{
     display: flex;
@@ -119,6 +117,7 @@ http://webfaver.com/client-side/css/cach-css-tu-dong-resize-anh-nen-theo-the-div
     border-top: #e3e3e3 1px solid;
     border-right: #e3e3e3 1px solid;
     border-left: #e3e3e3 1px solid;
+    background-color: #f5f5f5;
     color: #327ab6;
 }
 
@@ -165,8 +164,24 @@ http://webfaver.com/client-side/css/cach-css-tu-dong-resize-anh-nen-theo-the-div
 .khoi-noi-dung-2{
     zborder: gray 1px solid;
     padding: 5px 5px 5px 15px;
+    width: 290px;
 }
 
 .nhom-thanh-phan-tieu-de{
     margin-bottom: 7px;
 }
+
+#tim-kiem{
+    border: rebeccapurple 1px solid;
+    margin-bottom: 5px;
+}
+#quan-tam{
+    border: rebeccapurple 1px solid;
+    margin-bottom: 5px;
+}
+#xem-nhieu{
+    border: rebeccapurple 1px solid;
+}
+
+
+
